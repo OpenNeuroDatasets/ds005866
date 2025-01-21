@@ -33,10 +33,10 @@
   "Andrews_score": {
     "Description": ""
   },
-  "avTargetsCorrect": {
+  "MOTavTargetsCorrect": {
     "Description": ""
   },
-  "capacity": {
+  "MOTcapacity": {
     "Description": ""
   }
 }
