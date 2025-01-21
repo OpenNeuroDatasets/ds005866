@@ -1,4 +1,4 @@
-participant_id	Gender	Age	Group	Handedness	number_in_other_study	Highest_degree	ASL_AoA	PIAT_score	PPVT_score	Andrews_score	avTargetsCorrect	capacity
+participant_id	Gender	Age	Group	Handedness	number_in_other_study	Highest_degree	ASL_AoA	PIAT_score	PPVT_score	Andrews_score	MOTavTargetsCorrect	MOTcapacity
 sub-1	M	28	1	R	18	Master's degree	0	85	203	85	3.38	2.76
 sub-2	M	32	1	L	12	Doctorate/similar	0	87	206	83	2.46	0.92
 sub-3	M	24	1	R	n/a	n/a	n/a	71	181	47	n/a	n/a
